@@ -27,26 +27,8 @@
 <p align="left">
   🇺🇸 <br>
   - 🔭 I'm working on a user registration system with authentication using C# and .NET.<br>
-  - 📚 Currently learning C#, .NET, Node.js with Express.js, and PostgreSQL.<br>
+  - 📚 Currently learning C#, .NET, Node.js with Express.js, TypeScript and PostgreSQL.<br>
   - ⚡ I like building projects to practice and explore new technologies.<br>
 </p>
-
-###
-
-<h3 align="left">🛠 linguagens e ferramentas / languages and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="postgresql logo"  />
-</div>
 
 ###
