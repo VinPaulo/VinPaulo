@@ -19,16 +19,13 @@
 
 <p align="left">
   🇧🇷 <br>
-  - 🔭 tô desenvolvendo um sistema de cadastro de usuários com autenticação usando C# e .NET.<br>
-  - 📚 atualmente aprendendo C#, .NET, Node.js com Express.js e PostgreSQL.<br>
-  - ⚡ curto desenvolver projetos pra praticar e testar novas tecnologias.<br>
-</p>
+  Olá! Eu sou o Paulo 👋
 
-<p align="left">
-  🇺🇸 <br>
-  - 🔭 I'm working on a user registration system with authentication using C# and .NET.<br>
-  - 📚 Currently learning C#, .NET, Node.js with Express.js, TypeScript and PostgreSQL.<br>
-  - ⚡ I like building projects to practice and explore new technologies.<br>
+Sou estudante de Sistemas de Informação na UFV, atualmente iniciando o 5° semestre.
+
+Tenho mais de um ano de experiência com linguagens de programação, desde C (baixo nível) até TypeScript e C# (alto nível). Nos últimos meses, tenho direcionado meus esforços para o desenvolvimento profissional, aprimorando tanto minha lógica de programação quanto minhas habilidades em desenvolvimento de aplicações.
+
+Possuo grande facilidade em comunicação, gosto de falar em público e tenho autonomia para aprender de forma autodidata.
 </p>
 
 ###
