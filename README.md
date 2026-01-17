@@ -31,9 +31,9 @@ Atualmente no 5º semestre de Sistemas de Informação na **UFV**. Minha trajet�
 
 ### 🚀 Projetos em Destaque / Main Projects
 
-- **[Analytics para Restaurantes](URL_DO_REPO):** Dashboard BI Full-stack (React + Node.js).
-- **[Sistema de Autenticação Segura](URL_DO_REPO):** Implementação em C# .NET com Identity e JWT.
-- **[Estruturas de Dados Avançadas](URL_DO_REPO):** Árvores AVL e Algoritmos de ordenação em C.
+- **[Analytics para Restaurantes](https://github.com/VinPaulo/Case-nola-god-level):** Dashboard BI Full-stack (React + Node.js).
+- **[Sistema de Autenticação Segura](https://github.com/VinPaulo/PersonControllerAPI):** Implementação em C# .NET com Identity e JWT.
+- **[Estruturas de Dados Avançadas](https://github.com/VinPaulo/AVLSimulator):** Árvores AVL e Algoritmos de ordenação em C.
 
 ---
 <p align="center">
