@@ -7,16 +7,16 @@
 
 <p align="center">
   <strong>Estudante de Sistemas de Informação @ UFV 🎓 | Técnico em Eletrônica @ CEFET-MG ⚡</strong><br>
-  <em>Pesquisador em Sistemas Distribuídos e Desenvolvedor focado em Engenharia de Software</em>
+  <em>Pesquisador em Sistemas Distribuídos e Desenvolvedor focado em BackEnd</em>
 </p>
 
 ### 👨‍💻 Sobre Mim / About Me
 
-Atualmente no 5º semestre de Sistemas de Informação na **UFV**[cite: 29, 49]. Minha trajetória une o rigor da **Engenharia de Baixo Nível (C/C++)** com a agilidade do **Desenvolvimento Full-stack (React, Node.js, .NET)**. 
+Atualmente no 5º semestre de Sistemas de Informação na **UFV**. Minha trajetória une o rigor da **Engenharia de Baixo Nível (C/C++)** com a agilidade do **Desenvolvimento Full-stack (React, Node.js, .NET)**. 
 
-- 🔬 **Pesquisa:** Atuo em Iniciação Científica focada em **Sistemas Distribuídos**, estudando escalabilidade e tolerância a falhas[cite: 11, 53].
-- 🛠️ **Background:** Formação técnica pelo **CEFET-MG**, o que me deu uma base sólida em hardware e lógica de baixo nível[cite: 32, 50].
-- 🗣️ **Soft Skills:** Facilidade em comunicação técnica, oratória e aprendizado autodidata. [cite_start]Atuo como voluntário ensinando lógica para crianças[cite: 7, 40, 66].
+- 🔬 **Pesquisa:** Atuo em Iniciação Científica focada em **Sistemas Distribuídos**, estudando escalabilidade e tolerância a falhas.
+- 🛠️ **Background:** Formação técnica pelo **CEFET-MG**, o que me deu uma base sólida em hardware e lógica de baixo nível.
+- 🗣️ **Soft Skills:** Facilidade em comunicação técnica, oratória e aprendizado autodidata. [cite_start]Atuo como voluntário ensinando lógica para crianças.
 
 ### 🛠️ Tecnologias & Ferramentas / Tech Stack
 
@@ -31,9 +31,9 @@ Atualmente no 5º semestre de Sistemas de Informação na **UFV**[cite: 29, 49].
 
 ### 🚀 Projetos em Destaque / Main Projects
 
-- **[Analytics para Restaurantes](URL_DO_REPO):** Dashboard BI Full-stack (React + Node.js)[cite: 15, 56].
-- **[Sistema de Autenticação Segura](URL_DO_REPO):** Implementação em C# .NET com Identity e JWT[cite: 18, 58].
-- **[Estruturas de Dados Avançadas](URL_DO_REPO):** Árvores AVL e Algoritmos de ordenação em C[cite: 21, 60, 64].
+- **[Analytics para Restaurantes](URL_DO_REPO):** Dashboard BI Full-stack (React + Node.js).
+- **[Sistema de Autenticação Segura](URL_DO_REPO):** Implementação em C# .NET com Identity e JWT.
+- **[Estruturas de Dados Avançadas](URL_DO_REPO):** Árvores AVL e Algoritmos de ordenação em C.
 
 ---
 <p align="center">
