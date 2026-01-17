@@ -1,31 +1,41 @@
-###
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/vinaudpaulo-lemos-40160a305" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  <img src="https://img.shields.io/badge/C1-Advanced-green?style=for-the-badge&label=English" height="25" alt="English C1" />
 </div>
 
-###
+<h1 align="center">Olá, eu sou o Paulo!</h1>
 
-###
-
-<h1 align="center">eae! 👋 / hey there! 👋 </h1>
-
-###
-
-<h3 align="left">👨‍💻 sobre mim / about me</h3>
-
-###
-
-<p align="left">
-  🇧🇷 <br>
-  Olá! Eu sou o Paulo 👋
-
-Sou estudante de Sistemas de Informação na UFV, atualmente iniciando o 5° semestre.
-
-Tenho mais de um ano de experiência com linguagens de programação, desde C (baixo nível) até TypeScript e C# (alto nível). Nos últimos meses, tenho direcionado meus esforços para o desenvolvimento profissional, aprimorando tanto minha lógica de programação quanto minhas habilidades em desenvolvimento de aplicações.
-
-Possuo grande facilidade em comunicação, gosto de falar em público e tenho autonomia para aprender de forma autodidata.
+<p align="center">
+  <strong>Estudante de Sistemas de Informação @ UFV 🎓 | Técnico em Eletrônica @ CEFET-MG ⚡</strong><br>
+  <em>Pesquisador em Sistemas Distribuídos e Desenvolvedor focado em Engenharia de Software</em>
 </p>
 
-###
+### 👨‍💻 Sobre Mim / About Me
+
+[cite_start]Atualmente no 5º semestre de Sistemas de Informação na **UFV**[cite: 29, 49]. Minha trajetória une o rigor da **Engenharia de Baixo Nível (C/C++)** com a agilidade do **Desenvolvimento Full-stack (React, Node.js, .NET)**. 
+
+- [cite_start]🔬 **Pesquisa:** Atuo em Iniciação Científica focada em **Sistemas Distribuídos**, estudando escalabilidade e tolerância a falhas[cite: 11, 53].
+- [cite_start]🛠️ **Background:** Formação técnica pelo **CEFET-MG**, o que me deu uma base sólida em hardware e lógica de baixo nível[cite: 32, 50].
+- 🗣️ **Soft Skills:** Facilidade em comunicação técnica, oratória e aprendizado autodidata. [cite_start]Atuo como voluntário ensinando lógica para crianças[cite: 7, 40, 66].
+
+### 🛠️ Tecnologias & Ferramentas / Tech Stack
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</div>
+
+### 🚀 Projetos em Destaque / Main Projects
+
+- [cite_start]**[Analytics para Restaurantes](URL_DO_REPO):** Dashboard BI Full-stack (React + Node.js)[cite: 15, 56].
+- [cite_start]**[Sistema de Autenticação Segura](URL_DO_REPO):** Implementação em C# .NET com Identity e JWT[cite: 18, 58].
+- [cite_start]**[Estruturas de Dados Avançadas](URL_DO_REPO):** Árvores AVL e Algoritmos de ordenação em C[cite: 21, 60, 64].
+
+---
+<p align="center">
+  "Entendendo o que acontece por baixo do capô para construir soluções resilientes no topo."
+</p>
