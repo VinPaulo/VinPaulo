@@ -12,10 +12,10 @@
 
 ### 👨‍💻 Sobre Mim / About Me
 
-[cite_start]Atualmente no 5º semestre de Sistemas de Informação na **UFV**[cite: 29, 49]. Minha trajetória une o rigor da **Engenharia de Baixo Nível (C/C++)** com a agilidade do **Desenvolvimento Full-stack (React, Node.js, .NET)**. 
+Atualmente no 5º semestre de Sistemas de Informação na **UFV**[cite: 29, 49]. Minha trajetória une o rigor da **Engenharia de Baixo Nível (C/C++)** com a agilidade do **Desenvolvimento Full-stack (React, Node.js, .NET)**. 
 
-- [cite_start]🔬 **Pesquisa:** Atuo em Iniciação Científica focada em **Sistemas Distribuídos**, estudando escalabilidade e tolerância a falhas[cite: 11, 53].
-- [cite_start]🛠️ **Background:** Formação técnica pelo **CEFET-MG**, o que me deu uma base sólida em hardware e lógica de baixo nível[cite: 32, 50].
+- 🔬 **Pesquisa:** Atuo em Iniciação Científica focada em **Sistemas Distribuídos**, estudando escalabilidade e tolerância a falhas[cite: 11, 53].
+- 🛠️ **Background:** Formação técnica pelo **CEFET-MG**, o que me deu uma base sólida em hardware e lógica de baixo nível[cite: 32, 50].
 - 🗣️ **Soft Skills:** Facilidade em comunicação técnica, oratória e aprendizado autodidata. [cite_start]Atuo como voluntário ensinando lógica para crianças[cite: 7, 40, 66].
 
 ### 🛠️ Tecnologias & Ferramentas / Tech Stack
@@ -31,9 +31,9 @@
 
 ### 🚀 Projetos em Destaque / Main Projects
 
-- [cite_start]**[Analytics para Restaurantes](URL_DO_REPO):** Dashboard BI Full-stack (React + Node.js)[cite: 15, 56].
-- [cite_start]**[Sistema de Autenticação Segura](URL_DO_REPO):** Implementação em C# .NET com Identity e JWT[cite: 18, 58].
-- [cite_start]**[Estruturas de Dados Avançadas](URL_DO_REPO):** Árvores AVL e Algoritmos de ordenação em C[cite: 21, 60, 64].
+- **[Analytics para Restaurantes](URL_DO_REPO):** Dashboard BI Full-stack (React + Node.js)[cite: 15, 56].
+- **[Sistema de Autenticação Segura](URL_DO_REPO):** Implementação em C# .NET com Identity e JWT[cite: 18, 58].
+- **[Estruturas de Dados Avançadas](URL_DO_REPO):** Árvores AVL e Algoritmos de ordenação em C[cite: 21, 60, 64].
 
 ---
 <p align="center">
