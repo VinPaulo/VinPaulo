@@ -12,7 +12,7 @@
 
 ### 👨‍💻 Sobre Mim / About Me
 
-Atualmente no 5º semestre de Sistemas de Informação na **UFV**. Minha trajetória une o rigor da **Engenharia de Baixo Nível (C/C++)** com a agilidade do **Desenvolvimento Full-stack (React, Node.js, .NET)**. 
+Atualmente no 5º semestre de Sistemas de Informação na **UFV**. Minha trajetória une o rigor da **Engenharia de Baixo Nível (C/C++)** com a agilidade do **Desenvolvimento BackEnd (React, Node.js, .NET)**. 
 
 - 🔬 **Pesquisa:** Atuo em Iniciação Científica focada em **Sistemas Distribuídos**, estudando escalabilidade e tolerância a falhas.
 - 🛠️ **Background:** Formação técnica pelo **CEFET-MG**, o que me deu uma base sólida em hardware e lógica de baixo nível.
